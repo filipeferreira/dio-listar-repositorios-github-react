@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# DIO Formação React Developer - Code Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The goal of this challenge is to create a simple React app that finds the repositories of a given GitHub user using Axios, React components, and the useState Hook.
 
-## Available Scripts
+## Running the project
 
 ### `yarn start`
 
